@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://piccardino.github.io/LLM-Arena-test/sitemap.xml
