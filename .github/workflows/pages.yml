@@ -1,7 +1,7 @@
 name: Deploy WollyTCG to Pages
 on:
   push:
-    branches: [arena/01a0c7db-llm-arena-test]
+    branches: [main, arena/01a0c7db-llm-arena-test]
   workflow_dispatch:
 permissions:
   contents: read
